@@ -156,6 +156,7 @@ fieldset {
 						<h1><marquee direction="right" height="45" scrollamount="5"
 							behavior="alternate">
 							新增一筆資料111111
+							新增一筆資料222222
 						</marquee></h1>
 
 
